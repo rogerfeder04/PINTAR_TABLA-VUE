@@ -144,7 +144,7 @@ body {
   margin: 1px auto;
   padding: 15px;
   border-radius: 10px;
-    background-color: #e5dada;
+  background-color: #292828;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
